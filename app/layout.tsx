@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Niso Bakery Cafe",
+  title: "Niso Bakery Contact",
   description: "Niso Bakery Cafe raqamli tashrif kartasi",
 };
 
