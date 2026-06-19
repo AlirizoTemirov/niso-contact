@@ -63,7 +63,7 @@ export default function Home() {
         </div>
 
         <div className="px-5 relative -mt-12 flex flex-col gap-3">
-          <a href="tel:+998930790408">
+          <a href="tel:+998945401200">
             <div
               data-motion="rise"
               data-delay="260"
@@ -75,7 +75,7 @@ export default function Home() {
                 </div>
                 <div className="">
                   <p className="font-bold">Telefon</p>
-                  <p className="text-[#d9a972] text-sm">+998 90 123 45 67</p>
+                  <p className="text-[#d9a972] text-sm">+998 94 540 12 00</p>
                   <p className="text-[10px]">Qo'ng'iroq qilish</p>
                 </div>
               </div>
@@ -87,7 +87,7 @@ export default function Home() {
             </div>
           </a>
           <a
-            href="https://t.me/bbarotovv1"
+            href="https://t.me/znisobakerycafe"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -102,7 +102,7 @@ export default function Home() {
                 </div>
                 <div className="">
                   <p className="font-bold">Telegram</p>
-                  <p className="text-[#d9a972] text-sm">@nisobakery</p>
+                  <p className="text-[#d9a972] text-sm">@znisobakerycafe</p>
                   <p className="text-[10px]">Telegram kanal</p>
                 </div>
               </div>
@@ -114,7 +114,7 @@ export default function Home() {
             </div>
           </a>
           <a
-            href="https://instagram.com/nisobakery"
+            href="https://instagram.com/znisobakerycafe"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -129,7 +129,7 @@ export default function Home() {
                 </div>
                 <div className="">
                   <p className="font-bold">Instagram</p>
-                  <p className="text-[#d9a972] text-sm">@nisobakerycafe</p>
+                  <p className="text-[#d9a972] text-sm">@znisobakerycafe</p>
                   <p className="text-[10px]">Instagram sahifamiz</p>
                 </div>
               </div>
